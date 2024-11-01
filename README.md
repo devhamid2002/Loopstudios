@@ -5,7 +5,7 @@ Founded in 2011, we’re the pioneers of interactive VR, collaborating with top 
 
 ## Check It Out! 🖥️
 
-Dive into our world and explore our creations [here](https://devhamid2002.github.io/Loopstudios/) (replace with your actual link). 
+Dive into our world and explore our creations [here](https://devhamid2002.github.io/Loopstudios/). 
 
 ## What We Offer 🎉
 
